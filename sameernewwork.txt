@@ -1,2 +1,2 @@
 sameer new Repo and new work for testing
-sameer second line for master1
+deleting line test from master1 to master
